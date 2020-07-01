@@ -1,6 +1,8 @@
-<h1 align="center">GoMarketPlace</h1>
+<h1 align="center" >GoMarketPlace</h1>
 
-<img src="./assets/GifReadme.gif" alt="Gif">
+<h1 align="center">
+  <img width="250" height="500" src="./assets/GifReadme.gif" alt="Gif">
+</h1>
 
 ---
 
@@ -12,7 +14,7 @@ Provido como um desafio proposto pela **RocketSeat** no GoStack.
 Foram utilizados conceitos de React Hooks como UseCallback, UseEffect, UseState. E também aplicando o conceito de **Context API**.
 
 ---
-# Tecnologias utilizadas
+# 💻 Tecnologias utilizadas
 - React Native (Emulador Android).
 
 ---
